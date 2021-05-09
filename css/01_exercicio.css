@@ -1,0 +1,77 @@
+body {
+  background-color: darkgray;
+  font-family: sans-serif;
+  color: green;
+}
+
+h1 {
+  text-align: center;
+  background-color: azure;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-variant: small-caps;
+  color: black;
+  margin-top: 0;
+  margin-left: 0;
+  margin-bottom: 50px;
+  margin-right: 0;
+  padding-left: 25px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  padding-right: 25px;
+  width: 250px;
+  height: 10px;
+}
+
+h2 {
+  background-color: azure;
+  font-variant: small-caps;
+  border-color: cadetblue;
+  border-style: dashed;
+  border-width: 1px;
+  border-bottom: 4px;
+  padding: 25px;
+
+  border: saddlebrown;
+}
+
+p {
+  font-family: sans-serif;
+  font-variant: small-caps;
+  text-align: left;
+  text-decoration: underline;
+  text-indent: 5px;
+}
+
+.destaque {
+  color: red;
+  background-color: yellow;
+}
+
+a:link {
+  color: green;
+}
+
+a:hover {
+  background-color: #ccc;
+}
+
+a:visited {
+  color: red;
+}
+
+a:active {
+  color: orange;
+}
+
+ul li {
+  list-style-type: circle;
+  color: black;
+}
+
+ol li {
+  list-style-type: upper-alpha;
+  color: blue;
+  list-style-position: inside;
+}

@@ -1,0 +1,36 @@
+body {
+  margin: auto;
+  padding-left: 7%;
+  padding-right: 7%;
+  font-family: Helvetica;
+  font-variant-caps: all-small-caps;
+}
+
+p {
+  font-style: normal;
+  font-size: 16px;
+  font-variant-numeric: oldstyle-nums;
+  font-variant-caps: all-small-caps;
+}
+
+h1 {
+  text-align: center;
+  background-color: aquamarine;
+  padding: 10px;
+}
+
+h2 {
+  text-indent: 10px;
+  text-align: left;
+  background-color: aquamarine;
+  border-bottom: solid, 3px, cornsilk;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+li {
+  padding: 0;
+  list-style-position: inside;
+}
